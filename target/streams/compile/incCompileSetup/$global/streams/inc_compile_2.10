@@ -1,0 +1,378 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Calculate$.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Calculate.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\PiApproximation$.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\PiApproximation.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\PiMessage.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Result$.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Result.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Work$.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Work.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Listener$$anonfun$receive$1.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Listener.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Master$$anonfun$receive$1.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Master.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Worker$$anonfun$calculatePiFor$1.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Worker$$anonfun$receive$1.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Worker.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\Pi$$anonfun$1.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\Pi$.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\Pi$delayedInit$body.class
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\Pi.class
+binary dependencies:
+14 items
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> C:\Users\YS1607131010\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> C:\Users\YS1607131010\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.12.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> C:\Users\YS1607131010\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> C:\Users\YS1607131010\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.12.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> C:\Users\YS1607131010\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> C:\Users\YS1607131010\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.12.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> C:\Users\YS1607131010\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Users\YS1607131010\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.12.jar
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Users\YS1607131010\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels.Calculate
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels.Calculate$
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels.PiApproximation
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels.PiApproximation$
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels.PiMessage
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels.Result
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels.Result$
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels.Work
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels.Work$
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> actors.Listener
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> actors.Listener$$anonfun$receive$1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> actors.Master
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> actors.Master$$anonfun$receive$1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> actors.Master$$anonfun$receive$1$$anonfun$applyOrElse$1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> actors.Worker
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> actors.Worker$$anonfun$calculatePiFor$1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> actors.Worker$$anonfun$receive$1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Pi
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Pi$
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Pi$$anonfun$1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Pi$delayedInit$body
+used names:
+198 items
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> &&
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> <init>
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> ==
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> AbstractFunction1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> AbstractFunction2
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> AnyRef
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> Calculate
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> Double
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> Duration
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> Int
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> None
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> PiApproximation
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> PiMessage
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> Product
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> Result
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> ScalaRunTime
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> Serializable
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> Statics
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> Work
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> _toString
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> actorModels
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> anyHash
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> asInstanceOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> concurrent
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> doubleHash
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> duration
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> eq
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> finalizeHash
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> isInstanceOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> mix
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> nrOfElements
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> pi
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> runtime
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> start
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> toString
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> typedProductIterator
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> value
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> ||
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> <init>
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> A1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> Actor
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> B1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> Function1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> Listener
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> PiApproximation
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> Predef
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> actor
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> actorModels
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> actors
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> akka
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> apply
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> asInstanceOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> augmentString
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> context
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> duration
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> format
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> isInstanceOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> pi
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> println
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> shutdown
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> system
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> unchecked
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> !
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> *
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> +
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> -
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> <init>
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> ==
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> A1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Actor
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> ActorRef
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> B1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Calculate
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> ClassTag
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Double
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Function1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Int
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Long
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Master
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> PiApproximation
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Predef
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Props
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Result
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> RoundRobinRouter
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> System
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Work
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> Worker
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> actor
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> actorModels
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> actorOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> actorRef2Scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> actors
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> akka
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> apply
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> asInstanceOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> concurrent
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> context
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> currentTimeMillis
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> duration
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> foreach
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> i
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> intWrapper
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> isInstanceOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> java
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> lang
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> listener
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> materializeClassTag
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> millis
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> nrOfElements
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> nrOfMessages
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> nrOfResults
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> nrOfResults_=
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> nrOfWorkers
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> package
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> pi
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> pi_=
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> routing
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> self
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> start
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> stop
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> unchecked
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> until
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> value
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> withRouter
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> workerRouter
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> !
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> %
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> *
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> +
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> -
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> /
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> <init>
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> A1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> Actor
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> B1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> Double
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> Function1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> Int
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> Predef
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> Result
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> Work
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> Worker
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> acc
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> actor
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> actorModels
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> actorRef2Scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> actors
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> akka
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> apply
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> asInstanceOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> calculatePiFor
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> foreach
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> i
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> intWrapper
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> isInstanceOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> nrOfElements
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> package
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> self
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> sender
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> start
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> unchecked
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> until
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> !
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> <init>
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> ActorSystem
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> App
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Calculate
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> ClassTag
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Int
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Listener
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Master
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Pi
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Props
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> Unit
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> actor
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> actorModels
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> actorOf
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> actorRef2Scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> actors
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> akka
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> apply
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> calculate
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> listener
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> master
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> materializeClassTag
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> nrOfElements
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> nrOfMessages
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> nrOfWorkers
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> package
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> qual$1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> scala
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> system
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> x$1
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> x$2
+product stamps:
+21 items
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Calculate$.class -> lastModified(1534534430431)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Calculate.class -> lastModified(1534534430420)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\PiApproximation$.class -> lastModified(1534534430459)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\PiApproximation.class -> lastModified(1534534430449)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\PiMessage.class -> lastModified(1534534430465)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Result$.class -> lastModified(1534534430489)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Result.class -> lastModified(1534534430480)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Work$.class -> lastModified(1534534430513)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actorModels\Work.class -> lastModified(1534534430504)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Listener$$anonfun$receive$1.class -> lastModified(1534534430538)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Listener.class -> lastModified(1534534430527)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1534534430578)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Master$$anonfun$receive$1.class -> lastModified(1534534430569)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Master.class -> lastModified(1534534430555)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Worker$$anonfun$calculatePiFor$1.class -> lastModified(1534534430601)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Worker$$anonfun$receive$1.class -> lastModified(1534534430611)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\actors\Worker.class -> lastModified(1534534430592)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\Pi$$anonfun$1.class -> lastModified(1534534430404)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\Pi$.class -> lastModified(1534534430392)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\Pi$delayedInit$body.class -> lastModified(1534534430412)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\target\scala-2.10\classes\Pi.class -> lastModified(1534534430361)
+source stamps:
+5 items
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> hash(d6c92cd2ae21354b34a9a1e0f3477ddc9d77ab93)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> hash(4c7004b732c0644d4d6e3d6b29a13ecdd50914b9)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> hash(7e1d176a042e0786146fc9cb95efb7c8d3103e58)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> hash(e32fab6ceb47ee09b1b549baf806fe7cf40bdb19)
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> hash(f83c48d1be2458fc2c9cebe8a8ea88b27d7c2f86)
+binary stamps:
+3 items
+C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar -> lastModified(1480855425858)
+C:\Users\YS1607131010\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.12.jar -> lastModified(1436438668000)
+C:\Users\YS1607131010\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> lastModified(1395179160000)
+class names:
+3 items
+C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar -> java.lang.Object
+C:\Users\YS1607131010\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.12.jar -> akka.actor.Actor
+C:\Users\YS1607131010\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> scala.Serializable
+internal apis:
+5 items
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDoXh8eAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBk5/XZ0AAZub3RpZnlzcQB+AAwWYV6fdAAIZHVyYXRpb25zcQB+AAxbUQu+dAACcGlzcQB+AAyrSfbBdAAEd2FpdHNxAH4ADLUAwtN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADDKYwKx0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1RoZsXQADG5yT2ZFbGVtZW50c3NxAH4ADMgVx1h0AAxwcm9kdWN0QXJpdHlzcQB+AAzOxOOodAAGZXF1YWxzc3EAfgAMjuEXznQADGFzSW5zdGFuY2VPZnNxAH4ADOIGgFN0AA9QaUFwcHJveGltYXRpb25zcQB+AAy+vD6FdAAMc3luY2hyb25pemVkc3EAfgAMX4NRi3QADSRpc0luc3RhbmNlT2ZzcQB+AAwxmEyadAAIY2FuRXF1YWxzcQB+AAx+zhXXdAANcHJvZHVjdFByZWZpeHNxAH4ADIAsdVd0AAlub3RpZnlBbGxzcQB+AAyBVjridAALcmVhZFJlc29sdmVzcQB+AAyvtnoRdAAMaXNJbnN0YW5jZU9mc3EAfgAMup2oCXQABFdvcmtzcQB+AAzZsnxcdAAGPGluaXQ+c3EAfgAMVbbWJ3QAAj09c3EAfgAMjAyycHQABWNsb25lc3EAfgAMAxdTZnQACUNhbGN1bGF0ZXNxAH4ADCoXIA50AAlQaU1lc3NhZ2VzcQB+AAzezjqUdAAEY29weXNxAH4ADHMgj5t0AAh0b1N0cmluZ3NxAH4ADNbO/0t0AAIhPXNxAH4ADF3DAK10AAhnZXRDbGFzc3NxAH4ADLQ98Ch0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADP9FLMt0AAZSZXN1bHRzcQB+AAzYMZ6GdAAFc3RhcnRzcQB+AAxPRGvSdAACbmVzcQB+AAx9vvCadAAFdmFsdWVzcQB+AAxomZdbdAACZXFzcQB+AAzCzrkQdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMqqSWC3QAAiMjc3EAfgAMwTgXN3QACGZpbmFsaXplc3EAfgAMa3uOfnQADnByb2R1Y3RFbGVtZW50c3EAfgAMv8uAF3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwCXQAFWFjdG9yTW9kZWxzLlBpTWVzc2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Afnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfQBwc3EAfgCCc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AhnNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXIAEVtMeHN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
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDTne2YAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw7jGTgHQABHNlbGZzcQB+AAsdQAGidAAHY29udGV4dHVxAH4ACQAAACNzcQB+AAuUozTVdAAGbm90aWZ5c3EAfgALQM/MZnQAB1JlY2VpdmVzcQB+AAtpca7EdAAEd2FpdHNxAH4ACzt66uZ0AA0kYXNJbnN0YW5jZU9mc3EAfgALa2xWE3QABmVxdWFsc3NxAH4ACy3834t0AAxhc0luc3RhbmNlT2ZzcQB+AAsGOsCwdAAMc3luY2hyb25pemVkc3EAfgALDyq0S3QADSRpc0luc3RhbmNlT2ZzcQB+AAtAbUHvdAAHcmVjZWl2ZXNxAH4ACwpQJWx0AApwcmVSZXN0YXJ0c3EAfgALSqjExnQADWFyb3VuZFJlY2VpdmVzcQB+AAvROM22dAALcG9zdFJlc3RhcnRzcQB+AAuWBfJZdAAIcG9zdFN0b3BzcQB+AAubJPsTdAAJbm90aWZ5QWxsc3EAfgALQVC+vXQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALavR94nQADGlzSW5zdGFuY2VPZnNxAH4AC1p/lsR0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALKT2IVHQADmFyb3VuZFBvc3RTdG9wc3EAfgALWVgyDnQACExpc3RlbmVyc3EAfgALa2bzSnQABjxpbml0PnNxAH4ACy7yU9l0AAhwcmVTdGFydHNxAH4AC2E3jgN0AAl1bmhhbmRsZWRzcQB+AAs+bb/+dAACPT1zcQB+AAvrQYz7dAAFY2xvbmVzcQB+AAtjR7pwdAAGc2VuZGVyc3EAfgALnHTCn3QACHRvU3RyaW5nc3EAfgALg9UdTnQAAiE9c3EAfgALYm6i/3QACGdldENsYXNzc3EAfgALQbeIwHQAAm5lc3EAfgAL1LfbrXQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACye4jr90AAJlcXNxAH4ACz6FJ+R0AAIjI3NxAH4AC581eCZ0AAhmaW5hbGl6ZXNxAH4AC2WQ4Qp0AAhoYXNoQ29kZXNxAH4AC0Hlf+R0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA9hY3RvcnMuTGlzdGVuZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHkAcHNxAH4AfnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AIJzcQB+AHkAcHNxAH4AfnVxAH4AXAAAAABzcQB+AHkAcHNxAH4AfnVxAH4AXAAAAABzcQB+AHkAcHNxAH4AfnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AgXQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCBc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCedAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4An3NxAH4AknQABk9iamVjdHNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ50AARqYXZhc3EAfgCedAAEbGFuZ3EAfgClc3EAfgCSdAADQW55c3EAfgCWc3EAfgCZdXEAfgCcAAAAAnNxAH4AnnQABXNjYWxhcQB+AKV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAZhY3RvcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWVJYSZldXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAU0M6XFVzZXJzXFlTMTYwNzEzMTAxMFxEb2N1bWVudHNcU2NhbGFcQWtrYS10dXRvcmlhbC1zY2FsYVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUTHAEtzLAZE1Nbj1rKaE+zdUJFLk=
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCBfBzxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6LC3kHQABHNlbGZzcQB+AAsGbsKjdAAHY29udGV4dHVxAH4ACQAAACdzcQB+AAsz2bRLdAAGbm90aWZ5c3EAfgALEEo0PnQAB1JlY2VpdmVzcQB+AAvrempYdAACcGlzcQB+AAuVOnT8dAAEd2FpdHNxAH4AC1eDzYJ0AAZNYXN0ZXJzcQB+AAut7aWSdAANJGFzSW5zdGFuY2VPZnNxAH4ACz2VrWF0AAZlcXVhbHNzcQB+AAsIzCCGdAAMYXNJbnN0YW5jZU9mc3EAfgALBnWJP3QADHN5bmNocm9uaXplZHNxAH4AC/imG6p0AA0kaXNJbnN0YW5jZU9mc3EAfgALK7UEPnQAB3JlY2VpdmVzcQB+AAtKfPQ4dAAKcHJlUmVzdGFydHNxAH4AC26sxCV0AA1hcm91bmRSZWNlaXZlc3EAfgALaMZSPXQAC3Bvc3RSZXN0YXJ0c3EAfgALWMcXZXQACHBvc3RTdG9wc3EAfgALFfKpenQACW5vdGlmeUFsbHNxAH4AC/Cwy2p0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC0IBr1B0AAxpc0luc3RhbmNlT2ZzcQB+AAsOhNUFdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4ACwhFsBN0AA5hcm91bmRQb3N0U3RvcHNxAH4AC/LrCzd0AAY8aW5pdD5zcQB+AAtAcFCidAAIcHJlU3RhcnRzcQB+AAtsifYOdAAJdW5oYW5kbGVkc3EAfgALgX16w3QAAj09c3EAfgALH9xKI3QABWNsb25lc3EAfgALhiydjnQABnNlbmRlcnNxAH4AC1dviaR0AAh0b1N0cmluZ3NxAH4AC+5oQsd0AAtuck9mUmVzdWx0c3NxAH4AC3aPYnF0AAx3b3JrZXJSb3V0ZXJzcQB+AAt1INl8dAACIT1zcQB+AAsHQJ1fdAAIZ2V0Q2xhc3NzcQB+AAsGRW7NdAAFc3RhcnRzcQB+AAtaVgs8dAACbmVzcQB+AAvoIXADdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALyJ/4KHQAAmVxc3EAfgALnU29JXQAAiMjc3EAfgALRunqCHQACGZpbmFsaXplc3EAfgALhbvkcXQACGhhc2hDb2Rlc3EAfgALhuiDeHQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AaXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADWFjdG9ycy5NYXN0ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIEAcHNxAH4AhnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIpzcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiXQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCJc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCmdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ap3NxAH4AmnQABk9iamVjdHNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZ0AARqYXZhc3EAfgCmdAAEbGFuZ3EAfgCtc3EAfgCadAADQW55c3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnQABXNjYWxhcQB+AK11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAZhY3RvcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWVJYSZldXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAU0M6XFVzZXJzXFlTMTYwNzEzMTAxMFxEb2N1bWVudHNcU2NhbGFcQWtrYS10dXRvcmlhbC1zY2FsYVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUfh0XagQuB4YUb8nLle+3yNMQPlg=
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDQ4DpeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwrSSMlHQABHNlbGZzcQB+AAvWJmvLdAAHY29udGV4dHVxAH4ACQAAACRzcQB+AAtu+tRmdAAGbm90aWZ5c3EAfgALgcTAJ3QAB1JlY2VpdmVzcQB+AAvOp0v1dAAOY2FsY3VsYXRlUGlGb3JzcQB+AAumKXvQdAAEd2FpdHNxAH4AC8jECjR0AA0kYXNJbnN0YW5jZU9mc3EAfgALlg2QunQABmVxdWFsc3NxAH4AC82kG/Z0AAxhc0luc3RhbmNlT2ZzcQB+AAulv2QydAAMc3luY2hyb25pemVkc3EAfgALhmCTPnQADSRpc0luc3RhbmNlT2ZzcQB+AAtGGs/EdAAHcmVjZWl2ZXNxAH4AC/XyLs10AApwcmVSZXN0YXJ0c3EAfgAL+JVcenQADWFyb3VuZFJlY2VpdmVzcQB+AAtYgdhDdAALcG9zdFJlc3RhcnRzcQB+AAvmHZ5zdAAIcG9zdFN0b3BzcQB+AAuHb5TGdAAJbm90aWZ5QWxsc3EAfgALUbIQQ3QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALs7YKFHQADGlzSW5zdGFuY2VPZnNxAH4ACxv446N0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALNkLWxXQADmFyb3VuZFBvc3RTdG9wc3EAfgALDI2pqnQABjxpbml0PnNxAH4ACz1IEZh0AAhwcmVTdGFydHNxAH4AC3HRwdx0AAl1bmhhbmRsZWRzcQB+AAsLdhg3dAACPT1zcQB+AAs9dJgtdAAFY2xvbmVzcQB+AAtlaiIudAAGc2VuZGVyc3EAfgAL5rdBX3QACHRvU3RyaW5nc3EAfgALinvooXQAAiE9c3EAfgAL7JeoHnQACGdldENsYXNzc3EAfgALzycUw3QABldvcmtlcnNxAH4AC3jv02V0AAJuZXNxAH4AC0gTAmx0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAs133+AdAACZXFzcQB+AAuOKOQPdAACIyNzcQB+AAtlw5A5dAAIZmluYWxpemVzcQB+AAsrOvtjdAAIaGFzaENvZGVzcQB+AAslkbbpdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANYWN0b3JzLldvcmtlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AfHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AewBwc3EAfgCAc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGNMAAlpbmhlcml0ZWRxAH4AY0wAB3BhcmVudHNxAH4AY3hxAH4AhHNxAH4AewBwc3EAfgCAdXEAfgBeAAAAAHNxAH4AewBwc3EAfgCAdXEAfgBeAAAAAHNxAH4AewBwc3EAfgCAdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCDdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AINzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKB0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgChc3EAfgCUdAAGT2JqZWN0c3EAfgCYc3EAfgCbdXEAfgCeAAAAA3NxAH4AoHQABGphdmFzcQB+AKB0AARsYW5ncQB+AKdzcQB+AJR0AANBbnlzcQB+AJhzcQB+AJt1cQB+AJ4AAAACc3EAfgCgdAAFc2NhbGFxAH4Ap3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABmFjdG9yc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZUlhJmV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABTQzpcVXNlcnNcWVMxNjA3MTMxMDEwXERvY3VtZW50c1xTY2FsYVxBa2thLXR1dG9yaWFsLXNjYWxhXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTjL6ts60fuCbG1Sbr4Bv589AvbGQ==
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCJjzyxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPy5jml0AAZub3RpZnlzcQB+AAx3sIrDdAAEd2FpdHNxAH4ADCU16qF0AA0kYXNJbnN0YW5jZU9mc3EAfgAMzu8oIHQABmVxdWFsc3NxAH4ADCFOv510AAxhc0luc3RhbmNlT2ZzcQB+AAwD4sEldAAOZXhlY3V0aW9uU3RhcnRzcQB+AAylTt8cdAAMc3luY2hyb25pemVkc3EAfgAMX5RcEnQADSRpc0luc3RhbmNlT2ZzcQB+AAwnWgP7dAAFX2FyZ3NzcQB+AAw0rEoEdAAEbWFpbnNxAH4ADGN5j4d0AAhpbml0Q29kZXNxAH4ADAfj7YB0AAlub3RpZnlBbGxzcQB+AAzIO8/LdAACUGlzcQB+AAzc3yladAAMaXNJbnN0YW5jZU9mc3EAfgAMFKCQp3QACWNhbGN1bGF0ZXNxAH4ADLVJU/h0AAI9PXNxAH4ADLAnrQF0AAVjbG9uZXNxAH4ADGrdDTR0AAh0b1N0cmluZ3NxAH4ADKmMXOF0AARhcmdzc3EAfgAMD9HmDHQAAiE9c3EAfgAM/k0+gXQACGdldENsYXNzc3EAfgAMEM25s3QAAm5lc3EAfgAMtPkSTnQAAmVxc3EAfgAMpx1nD3QAC2RlbGF5ZWRJbml0c3EAfgAMriByj3QAAiMjc3EAfgAMT0O/1nQACGZpbmFsaXplc3EAfgAM8hI7f3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBkAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGtzcQB+AGQBdXEAfgBIAAAAAHBzcQB+AGQBdXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAAAc3EAfgBaAHEAfgAhdXEAfgBcAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBqc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCIdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AdXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AX3QABVBsYWlucQB+ADNzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGpzcQB+AHt0AAVBcnJheXEAfgCBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHt0AAZTdHJpbmdzcQB+AH9zcQB+AIJ1cQB+AIUAAAADc3EAfgCHdAAEamF2YXNxAH4Ah3QABGxhbmdxAH4AjHBzcQB+AGQBdXEAfgCfAAAABHNxAH4Ae3QAA0FwcHEAfgCBc3EAfgB7dAALRGVsYXllZEluaXRxAH4AgXNxAH4Ae3QABk9iamVjdHEAfgCjc3EAfgB7dAADQW55cQB+AIFwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFlSWEmZXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFNDOlxVc2Vyc1xZUzE2MDcxMzEwMTBcRG9jdW1lbnRzXFNjYWxhXEFra2EtdHV0b3JpYWwtc2NhbGFcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPg8SNG+JFj8LJzr6KjqiLJ9fC+G
+external apis:
+0 items
+source infos:
+5 items
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actorModels\PiMessage.scala -> 
+AAAAAAAAAAA=
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Listener.scala -> 
+AAAAAAAAAAA=
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Master.scala -> 
+AAAAAAAAAAEAAAEAAAARAFMgICAgUHJvcHNbV29ya2VyXS53aXRoUm91dGVyKFJvdW5kUm9iaW5Sb3V0ZXIobnJPZldvcmtlcnMpKSwgbmFtZSA9ICJ3b3JrZXJSb3V0ZXIiKQEAAAIOAQAAAB0BAB0gICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAXEM6XFVzZXJzXFlTMTYwNzEzMTAxMFxEb2N1bWVudHNcU2NhbGFcQWtrYS10dXRvcmlhbC1zY2FsYVxzcmNcbWFpblxzY2FsYVxhY3RvcnNcTWFzdGVyLnNjYWxhAQBcQzpcVXNlcnNcWVMxNjA3MTMxMDEwXERvY3VtZW50c1xTY2FsYVxBa2thLXR1dG9yaWFsLXNjYWxhXHNyY1xtYWluXHNjYWxhXGFjdG9yc1xNYXN0ZXIuc2NhbGEAX29iamVjdCBSb3VuZFJvYmluUm91dGVyIGluIHBhY2thZ2Ugcm91dGluZyBpcyBkZXByZWNhdGVkOiBVc2UgUm91bmRSb2JpblBvb2wgb3IgUm91bmRSb2Jpbkdyb3VwAQ==
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\actors\Worker.scala -> 
+AAAAAAAAAAA=
+C:\Users\YS1607131010\Documents\Scala\Akka-tutorial-scala\src\main\scala\Pi.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRoQLpJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXFlTMTYwNzEzMTAxMFxEb2N1bWVudHNcU2NhbGFcQWtrYS10dXRvcmlhbC1zY2FsYVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRoR1JJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXFlTMTYwNzEzMTAxMFxEb2N1bWVudHNcU2NhbGFcQWtrYS10dXRvcmlhbC1zY2FsYVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZRoUF411cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXFlTMTYwNzEzMTAxMFxEb2N1bWVudHNcU2NhbGFcQWtrYS10dXRvcmlhbC1zY2FsYVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZUPb0Yd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXFlTMTYwNzEzMTAxMFxEb2N1bWVudHNcU2NhbGFcQWtrYS10dXRvcmlhbC1zY2FsYVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZUlhJmV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXFlTMTYwNzEzMTAxMFxEb2N1bWVudHNcU2NhbGFcQWtrYS10dXRvcmlhbC1zY2FsYVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
